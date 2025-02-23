@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyectos\\Prueba t\u00E9cnica Yape\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A17C269-9A9E-4C6A-9E70-A2EE70FE9B4F}|TransactionService\\TransactionService.csproj|c:\\proyectos\\prueba t\u00E9cnica yape\\transactionservice\\core\\application\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A17C269-9A9E-4C6A-9E70-A2EE70FE9B4F}|TransactionService\\TransactionService.csproj|solutionrelative:transactionservice\\core\\application\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A17C269-9A9E-4C6A-9E70-A2EE70FE9B4F}|TransactionService\\TransactionService.csproj|c:\\proyectos\\prueba t\u00E9cnica yape\\transactionservice\\infrastructure\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A17C269-9A9E-4C6A-9E70-A2EE70FE9B4F}|TransactionService\\TransactionService.csproj|solutionrelative:transactionservice\\infrastructure\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A17C269-9A9E-4C6A-9E70-A2EE70FE9B4F}|TransactionService\\TransactionService.csproj|c:\\proyectos\\prueba t\u00E9cnica yape\\transactionservice\\core\\domain\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A17C269-9A9E-4C6A-9E70-A2EE70FE9B4F}|TransactionService\\TransactionService.csproj|solutionrelative:transactionservice\\core\\domain\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A17C269-9A9E-4C6A-9E70-A2EE70FE9B4F}|TransactionService\\TransactionService.csproj|c:\\proyectos\\prueba t\u00E9cnica yape\\transactionservice\\presentation\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A17C269-9A9E-4C6A-9E70-A2EE70FE9B4F}|TransactionService\\TransactionService.csproj|solutionrelative:transactionservice\\presentation\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A17C269-9A9E-4C6A-9E70-A2EE70FE9B4F}|TransactionService\\TransactionService.csproj|c:\\proyectos\\prueba t\u00E9cnica yape\\transactionservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A17C269-9A9E-4C6A-9E70-A2EE70FE9B4F}|TransactionService\\TransactionService.csproj|solutionrelative:transactionservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A17C269-9A9E-4C6A-9E70-A2EE70FE9B4F}|TransactionService\\TransactionService.csproj|c:\\proyectos\\prueba t\u00E9cnica yape\\transactionservice\\presentation\\dtos\\retrievetransactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A17C269-9A9E-4C6A-9E70-A2EE70FE9B4F}|TransactionService\\TransactionService.csproj|solutionrelative:transactionservice\\presentation\\dtos\\retrievetransactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A17C269-9A9E-4C6A-9E70-A2EE70FE9B4F}|TransactionService\\TransactionService.csproj|c:\\proyectos\\prueba t\u00E9cnica yape\\transactionservice\\presentation\\mappers\\transactionmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A17C269-9A9E-4C6A-9E70-A2EE70FE9B4F}|TransactionService\\TransactionService.csproj|solutionrelative:transactionservice\\presentation\\mappers\\transactionmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A17C269-9A9E-4C6A-9E70-A2EE70FE9B4F}|TransactionService\\TransactionService.csproj|c:\\proyectos\\prueba t\u00E9cnica yape\\transactionservice\\core\\domain\\interfaces\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A17C269-9A9E-4C6A-9E70-A2EE70FE9B4F}|TransactionService\\TransactionService.csproj|solutionrelative:transactionservice\\core\\domain\\interfaces\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A17C269-9A9E-4C6A-9E70-A2EE70FE9B4F}|TransactionService\\TransactionService.csproj|c:\\proyectos\\prueba t\u00E9cnica yape\\transactionservice\\infrastructure\\comunicactions\\transactioncommunication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A17C269-9A9E-4C6A-9E70-A2EE70FE9B4F}|TransactionService\\TransactionService.csproj|solutionrelative:transactionservice\\infrastructure\\comunicactions\\transactioncommunication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86336865-3514-4B82-9B3C-10780C2D408D}|AntiFraudService\\AntiFraudService.csproj|c:\\proyectos\\prueba t\u00E9cnica yape\\antifraudservice\\validators\\antifraudvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86336865-3514-4B82-9B3C-10780C2D408D}|AntiFraudService\\AntiFraudService.csproj|solutionrelative:antifraudservice\\validators\\antifraudvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86336865-3514-4B82-9B3C-10780C2D408D}|AntiFraudService\\AntiFraudService.csproj|c:\\proyectos\\prueba t\u00E9cnica yape\\antifraudservice\\handlers\\transactionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86336865-3514-4B82-9B3C-10780C2D408D}|AntiFraudService\\AntiFraudService.csproj|solutionrelative:antifraudservice\\handlers\\transactionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 965,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Prueba t\u00E9cnica Yape\\TransactionService\\Presentation\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "TransactionService\\Presentation\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Proyectos\\Prueba t\u00E9cnica Yape\\TransactionService\\Presentation\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "TransactionService\\Presentation\\Controllers\\TransactionController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T00:56:00.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Prueba t\u00E9cnica Yape\\TransactionService\\Program.cs",
+              "RelativeDocumentMoniker": "TransactionService\\Program.cs",
+              "ToolTip": "C:\\Proyectos\\Prueba t\u00E9cnica Yape\\TransactionService\\Program.cs",
+              "RelativeToolTip": "TransactionService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T00:46:58.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransactionMapper.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Prueba t\u00E9cnica Yape\\TransactionService\\Presentation\\Mappers\\TransactionMapper.cs",
+              "RelativeDocumentMoniker": "TransactionService\\Presentation\\Mappers\\TransactionMapper.cs",
+              "ToolTip": "C:\\Proyectos\\Prueba t\u00E9cnica Yape\\TransactionService\\Presentation\\Mappers\\TransactionMapper.cs",
+              "RelativeToolTip": "TransactionService\\Presentation\\Mappers\\TransactionMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T00:39:38.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RetrieveTransactionDTO.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Prueba t\u00E9cnica Yape\\TransactionService\\Presentation\\DTOs\\RetrieveTransactionDTO.cs",
+              "RelativeDocumentMoniker": "TransactionService\\Presentation\\DTOs\\RetrieveTransactionDTO.cs",
+              "ToolTip": "C:\\Proyectos\\Prueba t\u00E9cnica Yape\\TransactionService\\Presentation\\DTOs\\RetrieveTransactionDTO.cs",
+              "RelativeToolTip": "TransactionService\\Presentation\\DTOs\\RetrieveTransactionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T00:34:14.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Prueba t\u00E9cnica Yape\\TransactionService\\Core\\Domain\\Entities\\Transaction.cs",
+              "RelativeDocumentMoniker": "TransactionService\\Core\\Domain\\Entities\\Transaction.cs",
+              "ToolTip": "C:\\Proyectos\\Prueba t\u00E9cnica Yape\\TransactionService\\Core\\Domain\\Entities\\Transaction.cs",
+              "RelativeToolTip": "TransactionService\\Core\\Domain\\Entities\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T00:28:29.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITransactionService.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Prueba t\u00E9cnica Yape\\TransactionService\\Core\\Domain\\Interfaces\\ITransactionService.cs",
+              "RelativeDocumentMoniker": "TransactionService\\Core\\Domain\\Interfaces\\ITransactionService.cs",
+              "ToolTip": "C:\\Proyectos\\Prueba t\u00E9cnica Yape\\TransactionService\\Core\\Domain\\Interfaces\\ITransactionService.cs",
+              "RelativeToolTip": "TransactionService\\Core\\Domain\\Interfaces\\ITransactionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T00:20:17.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Prueba t\u00E9cnica Yape\\TransactionService\\Infrastructure\\Repositories\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "TransactionService\\Infrastructure\\Repositories\\TransactionRepository.cs",
+              "ToolTip": "C:\\Proyectos\\Prueba t\u00E9cnica Yape\\TransactionService\\Infrastructure\\Repositories\\TransactionRepository.cs",
+              "RelativeToolTip": "TransactionService\\Infrastructure\\Repositories\\TransactionRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIA5wBkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T23:52:42.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AntiFraudValidator.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Prueba t\u00E9cnica Yape\\AntiFraudService\\Validators\\AntiFraudValidator.cs",
+              "RelativeDocumentMoniker": "AntiFraudService\\Validators\\AntiFraudValidator.cs",
+              "ToolTip": "C:\\Proyectos\\Prueba t\u00E9cnica Yape\\AntiFraudService\\Validators\\AntiFraudValidator.cs",
+              "RelativeToolTip": "AntiFraudService\\Validators\\AntiFraudValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T23:51:47.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TransactionHandler.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Prueba t\u00E9cnica Yape\\AntiFraudService\\Handlers\\TransactionHandler.cs",
+              "RelativeDocumentMoniker": "AntiFraudService\\Handlers\\TransactionHandler.cs",
+              "ToolTip": "C:\\Proyectos\\Prueba t\u00E9cnica Yape\\AntiFraudService\\Handlers\\TransactionHandler.cs",
+              "RelativeToolTip": "AntiFraudService\\Handlers\\TransactionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T23:51:22.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TransactionCommunication.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Prueba t\u00E9cnica Yape\\TransactionService\\Infrastructure\\Comunicactions\\TransactionCommunication.cs",
+              "RelativeDocumentMoniker": "TransactionService\\Infrastructure\\Comunicactions\\TransactionCommunication.cs",
+              "ToolTip": "C:\\Proyectos\\Prueba t\u00E9cnica Yape\\TransactionService\\Infrastructure\\Comunicactions\\TransactionCommunication.cs",
+              "RelativeToolTip": "TransactionService\\Infrastructure\\Comunicactions\\TransactionCommunication.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwEIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T23:50:43.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Prueba t\u00E9cnica Yape\\TransactionService\\Core\\Application\\TransactionService.cs",
+              "RelativeDocumentMoniker": "TransactionService\\Core\\Application\\TransactionService.cs",
+              "ToolTip": "C:\\Proyectos\\Prueba t\u00E9cnica Yape\\TransactionService\\Core\\Application\\TransactionService.cs",
+              "RelativeToolTip": "TransactionService\\Core\\Application\\TransactionService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAhwCEAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T23:36:57.496Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+﻿using System;
+using Microsoft.EntityFrameworkCore.Migrations;
+
+#nullable disable
+
+namespace TransactionService.Migrations
+{
+    /// <inheritdoc />
+    public partial class CreacionTablaMigracionTransaction : Migration
+    {
+        /// <inheritdoc />
+        protected override void Up(MigrationBuilder migrationBuilder)
+        {
+            migrationBuilder.CreateTable(
+                name: "Transactions",
+                columns: table => new
+                {
+                    TransactionExternalId = table.Column<Guid>(type: "uuid", nullable: false),
+                    SourceAccountId = table.Column<Guid>(type: "uuid", nullable: false),
+                    TargetAccountId = table.Column<Guid>(type: "uuid", nullable: false),
+                    TranferTypeId = table.Column<int>(type: "integer", nullable: false),
+                    Status = table.Column<string>(type: "text", nullable: true),
+                    Value = table.Column<decimal>(type: "numeric", nullable: false),
+                    CreatedAt = table.Column<DateTime>(type: "timestamp with time zone", nullable: false),
+                    UpdatedAt = table.Column<DateTime>(type: "timestamp with time zone", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Transactions", x => x.TransactionExternalId);
+                });
+        }
+
+        /// <inheritdoc />
+        protected override void Down(MigrationBuilder migrationBuilder)
+        {
+            migrationBuilder.DropTable(
+                name: "Transactions");
+        }
+    }
+}
